@@ -1,13 +1,11 @@
-<FONT size="80pt"><B>TEST</FONT></B>
-
-<FONT size="50pt"><B>Discord Theme 1</FONT></B>
+<FONT size="80pt"><B>Discord Theme 1 : Rainbow</FONT></B>
 
 <FONT size="40pt"><B>Preview </FONT></B>
 
 <FONT size="20pt"><B>Light</FONT></B>
 
-<p><br /><img src="https://gyazo.com/4cd5202e77951c7b03bd0fe26d218c05.jpg"/></p>
+<p><br /><img src="https://gyazo.com/069aa3cbb2bc04ff8467b4288a01ebe6.jpg"/></p>
 
 <FONT size="20pt"><B>Dark</FONT></B>
 
-<p><br /><img src="https://gyazo.com/b093eb861da9c4b5e2692a9f243a2d51.jpg"/></p>
+<p><br /><img src="https://gyazo.com/cf526994d860e838e07bf6ec6ca73322.jpg"/></p>
